@@ -2,7 +2,7 @@
 
 **Un projet de Johanne Pamegne** — automatisation et agents IA · [Portfolio](https://johanne.vorchex.tech) · [LinkedIn](https://www.linkedin.com/in/johanne-pamegne-2672b63b4)
 
-Quand personne ne peut décrocher, l'appelant reçoit un SMS dans la minute. La conversation continue par écrit jusqu'au rendez-vous. Ensuite, le système envoie les rappels, gère les annulations, revend la place libérée à la liste d'attente et relance les absents.
+Quand personne ne peut décrocher, l'appelant reçoit un SMS dans la minute. La conversation continue par écrit jusqu'au rendez-vous. Ensuite, le système envoie les rappels, gère les annulations, propose la place libérée à la liste d'attente et relance les absents.
 
 **Plus aucun client perdu, plus aucun rendez-vous oublié** : tout se passe par SMS, sans application à installer et sans voix robotisée.
 
